@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Luis Silva Balladares 👋</h1>
-  <p><strong>AI Agent Developer & Full Stack Software Engineer</strong></p>
-  <p>Computer & Systems Engineering Graduate • Trujillo, Peru 🇵🇪</p>
+  <p><strong>AI Agent Developer & Full Stack Engineer</strong></p>
+  <p>Computer & Systems Engineer • Trujillo, Peru 🇵🇪</p>
 
   <p>
     <a href="https://luissilvaballadares.com"><img src="https://img.shields.io/badge/Portfolio-luissilvaballadares.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer & AI Agent Developer** with a degree in Computer & Systems Engineering, dedicated to building production-grade autonomous agentic workflows and scalable software platforms. 
+I am a **Computer & Systems Engineer** and **AI Agent Developer** dedicated to building production-grade autonomous agentic workflows, intelligent systems, and scalable software platforms.
 
 My primary focus is bridging large language models (LLMs) with actionable real-world capabilities—designing intelligent systems that can reason, orchestrate multi-step tasks, call custom tools, and integrate seamlessly with enterprise backend services.
 
